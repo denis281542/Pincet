@@ -1,0 +1,19 @@
+<svg id="Иконка" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="74" viewBox="0 0 74 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="74" height="74" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-color="#444" flood-opacity="0.11"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Круг" class="cls-1" cx="36.5" cy="33.5" r="17.5"/>
+  <image id="Векторный_смарт-объект" data-name="Векторный смарт-объект" x="29" y="27" width="15" height="15" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAABsUlEQVQokX2Tu2uVQRDFf/feTyOkEBXBBykEwUIvXLDRwidiJRZJowgxpBBsrPwDRASxsxIsAqL4QkhlGZWrBLSJwUTBFFYWkYBGEJTMHo9s2MA1fnHgwLIzZ/Ywc7axNDFBT/QBO4FPQBt4C/wApoBHwB1gaaW8iU1BB/sd9hz2Buwt2C3sj9h7sG9jz2K3VzhNJ+GkjpO6TtrhpAtO+lXuM647acBJw07a6qRJJ7VzrnLSeuDJsgo4Abzh3/gN3AOmgZfAOLC3ckqjwG7gIjALXAbu1jTIMQNcKvmRpiPOOuKLI8YcscsRNxwx7YgjjqAGDxzxOfMqR9oPPAWivHwSuA9cWeN1AS+A05Uj+oH5nuQzoFMaHAd+1jT4CmzMA/sGbFuVnC8KDgCva8ibgcU8sGyAw0AFpFXyJmuILeBoNlDe82MnbXfS+Z7d/g/nyt4fNhZv3lpXVpClHyrntSJbtgssAPuaSIE0hNRAeoU0ilQh0YNcN4zURWohDWZe5ZyE98DB4pwx4CrwvEx1E3AMGADmgKFST2Vl5y3HhywlOwc4A5wqxO/ld13761cBfwBffSj0l9OtYwAAAABJRU5ErkJggg=="/>
+</svg>

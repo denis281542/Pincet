@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 1560px;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header h1 {
+  font-family: serif;
+}
+
+.logo {
+  width: 280px;
+  height: 126px;
+}
+/*# sourceMappingURL=style.css.map */
